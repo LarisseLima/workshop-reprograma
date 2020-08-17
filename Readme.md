@@ -1,16 +1,30 @@
-<h2 align="center">WorkshopDev {REPROGRAMA}</h2>
+<h1 align="center" >
+   Workshop {REPROGRAMA}
+</h1>
 
-Landing Page criada no workshop da {REPROGRAMA}.<br>
+<h3 align="center">
+    Landing Page
+</h3>
 
-Linguagens utilizadas:
-HTML<br>
-CSS<br>
+## 💻 Sobre o projeto
 
+ Landing Page criada no workshop de seleção ao bootcamp Front-end da {REPROGRAMA}
+
+ ---
+## 🛠 Tecnologias
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- HTML
+- CSS
+
+---
+
+## 🎨 Layout
 
 <img src="./imagens/assets/img1.png">
 <img src="./imagens/assets/img2.png">
 <img src="./imagens/assets/img3.png">
 
-[ LinkedIn ](https://www.linkedin.com/in/larisselima/)
+---
 
-<h3 align="center">Desenvolvido por Larisse Lima :coffee: </h3>
+Desenvolvido com ☕ por Larisse Lima >>> [Linkedin](https://www.linkedin.com/in/larisselima/)
