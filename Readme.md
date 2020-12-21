@@ -27,4 +27,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-Desenvolvido com ☕ por Larisse Lima >> [Linkedin](https://www.linkedin.com/in/larisselima/)
+Desenvolvido com ☕ <br> por Larisse Lima 
