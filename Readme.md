@@ -8,7 +8,7 @@
 
 ## 💻 Sobre o projeto
 
- Landing Page criada no workshop de seleção ao bootcamp Front-end da {REPROGRAMA}
+ Landing Page criada no workshop  Front-end da {REPROGRAMA}
 
  ---
 ## 🛠 Tecnologias
